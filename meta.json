@@ -1,0 +1,23 @@
+{
+  "repo": "msi-afterburner-gpu-overclock-professional-install-guide",
+  "product": "MSI Afterburner GPU Overclock Pro Install Guide",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "msi-afterburner-gpu-overclock-pro",
+    "msi-afterburner",
+    "msi-afterburner-overclock",
+    "msi-afterburner-pro",
+    "how-to-install-msi-afterburner",
+    "how-to-setup-msi-afterburner",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "MSI Afterburner GPU Overclock Pro Install Guide"
+}
